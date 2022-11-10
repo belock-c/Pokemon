@@ -1,0 +1,7 @@
+ID	Name	Type	Gender	HP	Attack	Defense	SpAtk	SpDef	Speed
+1	Jendo	Fighting	Male	16	55	32	64	65	35
+2	Jendar	Fighting	Female	22	53	35	34	54	40
+3	Caterpie	Grass		45	30	34	19	19	40
+4	Bulbasaur	Grass	Either	45	48	48	64	63	42
+5	Gyrados	Water		60	43	50	30	35	35
+6	Ponya	Fire	Either	50	30	35	55	56	40
